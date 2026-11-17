@@ -1,4 +1,11 @@
 # Zoom MultiStomp — Community Effect Pack (8 Custom Effects)
+
+[![Download Pack](https://img.shields.io/badge/Download-Community%20Pack%20v1.0.0%20(ZIP)-2563eb?style=for-the-badge&logo=github)](https://github.com/marcfuentes/zoom-multistomp-community-pack/releases/download/v1.0.0/Zoom-MultiStomp-Community-Pack-8FX-v1.0.zip)
+[![Manual EN](https://img.shields.io/badge/Manual-English%20(PDF)-059669?style=for-the-badge)](https://github.com/marcfuentes/zoom-multistomp-community-pack/blob/main/manuals/Manual_EN.pdf)
+[![Manual ES](https://img.shields.io/badge/Manual-Espa%C3%B1ol%20(PDF)-d97706?style=for-the-badge)](https://github.com/marcfuentes/zoom-multistomp-community-pack/blob/main/manuals/Manual_ES.pdf)
+
+> **Instant Download:** Click the blue badge above or grab the ZIP directly from the [Releases Page](https://github.com/marcfuentes/zoom-multistomp-community-pack/releases/tag/v1.0.0). The ZIP includes all 8 ready-to-flash `.ZDL` files and the complete user manuals.
+
 ### Official User Manual & Parameter Reference Guide
 **Compatible Hardware:** Zoom MS-70CDR & MS-50G (Firmware v2.10)  
 **Pedal Category:** All effects are located under the **DELAY** category  
