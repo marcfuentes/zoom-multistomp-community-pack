@@ -1,10 +1,13 @@
 # Zoom MultiStomp — Community Effect Pack (8 Custom Effects)
 
-[![Download Pack](https://img.shields.io/badge/Download-Community%20Pack%20v1.0.0%20(ZIP)-2563eb?style=for-the-badge&logo=github)](https://github.com/marcfuentes/zoom-multistomp-community-pack/releases/download/v1.0.0/Zoom-MultiStomp-Community-Pack-8FX-v1.0.zip)
+[![Download Pack](https://img.shields.io/badge/Download-Community%20Pack%20v1.0.0%20(ZIP)-2563eb?style=for-the-badge&logo=github)](https://github.com/marcfuentes/zoom-multistomp-community-pack/raw/main/Zoom-MultiStomp-Community-Pack-8FX-v1.0.zip)
+[![Support on Ko-fi](https://img.shields.io/badge/Support_on-Ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/marcfuentes)
+[![Instagram](https://img.shields.io/badge/Instagram-@no__identifier__music-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/no_identifier_music/)
 [![Manual EN](https://img.shields.io/badge/Manual-English%20(PDF)-059669?style=for-the-badge)](https://github.com/marcfuentes/zoom-multistomp-community-pack/blob/main/manuals/Manual_EN.pdf)
 [![Manual ES](https://img.shields.io/badge/Manual-Espa%C3%B1ol%20(PDF)-d97706?style=for-the-badge)](https://github.com/marcfuentes/zoom-multistomp-community-pack/blob/main/manuals/Manual_ES.pdf)
 
-> **Instant Download:** Click the blue badge above or grab the ZIP directly from the [Releases Page](https://github.com/marcfuentes/zoom-multistomp-community-pack/releases/tag/v1.0.0). The ZIP includes all 8 ready-to-flash `.ZDL` files and the complete user manuals.
+> 🎧 **Video Demos:** Watch and hear some of these effects in action on [Instagram (@no_identifier_music)](https://www.instagram.com/no_identifier_music/).  
+> ☕ **Support:** This pack is 100% free! If you enjoy these algorithms and want to support ongoing DSP development, consider [buying me a coffee on Ko-fi](https://ko-fi.com/marcfuentes).
 
 ### Official User Manual & Parameter Reference Guide
 **Compatible Hardware:** Zoom MS-70CDR & MS-50G (Firmware v2.10)  
